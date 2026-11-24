@@ -58,6 +58,48 @@ AstraFlare/
 
 ## Technology Stack
 
+
+## Research References 
+
+AstraFlare's research methodology is informed by published studies on satellite-based active fire detection, industrial thermal anomaly identification, and VIIRS/MODIS remote sensing.
+
+### 1. Industrial Heat Source Identification
+
+**Paper:** Identifying Industrial Heat Sources Using Time-Series of the VIIRS Nightfire Product with an Object-Oriented Approach (2018)
+
+- Authors: Yongxue Liu et al.
+- Journal: Remote Sensing of Environment
+- DOI: https://doi.org/10.1016/j.rse.2017.10.019
+
+**Research Relevance:**
+- Understanding persistent industrial thermal signatures.
+- Analyzing spatial and temporal patterns of thermal anomalies.
+- Distinguishing industrial heat sources from biomass burning.
+
+### 2. Satellite-Based Active Fire Detection
+
+**Paper:** The New VIIRS 375 m Active Fire Detection Data Product: Algorithm Description and Initial Assessment (2014)
+
+- Authors: Wilfrid Schroeder, Patricia Oliva, Louis Giglio, Ivan A. Csiszar.
+- Journal: Remote Sensing of Environment
+- DOI: https://doi.org/10.1016/j.rse.2013.12.008
+
+**Research Relevance:**
+- Understanding VIIRS active fire detection algorithms.
+- Studying thermal infrared features and contextual detection methods.
+- Exploring satellite-based detection of biomass burning and other thermal anomalies.
+
+### Application in AstraFlare
+
+The reviewed literature provides a research foundation for:
+
+- Satellite-based thermal anomaly analysis using NASA FIRMS data.
+- Industrial heat-source and wildfire classification.
+- Spatiotemporal feature analysis and geospatial risk assessment.
+- Reducing false positives and improving anomaly verification.
+
+**Note:** These publications are research references, not claims of direct implementation of their original algorithms.
+
 ### Frontend
 
 - React
